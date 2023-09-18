@@ -1,6 +1,7 @@
 Task Manager Applicaion.
 A simple application created using crud operations.
-#Laravel #Mysql
+
+#Php #Laravel #Mysql
 
 
 ![index](https://github.com/nazmul609/task_manager/assets/69470912/b17076b5-f98e-4b39-8dee-0d474dc7dbcd)
