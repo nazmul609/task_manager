@@ -1,5 +1,7 @@
 A simple task management application
 using crud operations. #laravel
+
+
 #index page
 ![index](https://github.com/nazmul609/task_manager/assets/69470912/3c365897-c316-4df4-8120-8e9f5e5a3ef0)
 
