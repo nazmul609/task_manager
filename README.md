@@ -1,5 +1,5 @@
 Task Manager Applicaion.
-A simple application created using crud operations.
+A simple application created using crud operations. One can create task, edit , update , delete and see the completed task.
 
 #Php #Laravel #Mysql
 
